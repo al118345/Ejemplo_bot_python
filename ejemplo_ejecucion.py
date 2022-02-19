@@ -11,9 +11,4 @@ def click_raton_posicion (x,y):
     time.sleep(10)
 
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/al118345/Ejemplo_bot_python.git
-git push -u origin main
-
 click_raton_posicion(626.6600341796875, 181.1196746826172)
