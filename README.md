@@ -14,7 +14,7 @@ En este repositorio se pueden encontrar los siguientes ficheros:
 
 * **ejemplo_posicion.py** Ejemplo de un scpript que te preporciona por la pantalla las coordenadas dónde has realizado click. 
 
-* **ejemplo_lectura_teclado_a_fichero.py**Ejemplo de bot para la lectura del teclado y almacenar en un fichero.
+* **ejemplo_lectura_teclado_a_fichero.py** Ejemplo de bot para la lectura del teclado y almacenar en un fichero.
 
 
 ### Prerequisites
