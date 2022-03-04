@@ -42,17 +42,16 @@ screen_search
 Para ejecutar este proyecto es necesario ejecutar el siguiente comando y añadir las credenciales de acceso a la api de twitter. 
 
 ```
+python -m pip install --upgrade pip 
 python get-pip.py install -r requirements.txt
-git clone --depth=1 https://github.com/twintproject/twint.git
-cd twint
 python get-pip.py  install . -r requirements.txt
 ```
 o en el caso de linux
 
 ```
+python -m pip install --upgrade pip 
 pip install -r requirements.txt
-git clone --depth=1 https://github.com/twintproject/twint.git
-cd twint
+sudo apt-get install python3.7-tk
 pip3 install . -r requirements.txt
 ```
 
