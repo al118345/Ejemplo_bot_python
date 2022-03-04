@@ -9,4 +9,5 @@ pyautogui
 mss
 pytesseract
 screen_search
-#apt-get install python3-tk
+# para python3.7 en ubuntu necesairo es necesario.
+#sudo apt-get install python3.7-tk

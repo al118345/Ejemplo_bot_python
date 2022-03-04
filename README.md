@@ -16,11 +16,24 @@ En este repositorio se pueden encontrar los siguientes ficheros:
 
 * **ejemplo_lectura_teclado_a_fichero.py** Ejemplo de bot para la lectura del teclado y almacenar en un fichero.
 
+* **bot_viewgrip_imagenes_ejecucion.py** Ejemplo de bot para lanzar automáticamente el cliente de viewgrip. 
 
 ### Prerequisites
 
 ```
 pynput
+#importante tenerle actualizado.
+#python -m pip install --upgrade pip 
+scikit-build
+opencv-python
+numpy
+python3_xlib
+pyautogui
+mss
+pytesseract
+screen_search
+# para python3.7 en ubuntu necesairo es necesario. 
+#sudo apt-get install python3.7-tk
 ```
 
 ### Installing
