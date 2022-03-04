@@ -1,1 +1,12 @@
 pynput
+#importante tenerle actualizado.
+#python -m pip install --upgrade pip
+scikit-build
+opencv-python
+numpy
+python3_xlib
+pyautogui
+mss
+pytesseract
+screen_search
+#apt-get install python3-tk
