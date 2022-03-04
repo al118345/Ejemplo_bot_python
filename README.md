@@ -6,6 +6,8 @@ Este tutorial consiste en la creación de un script para la automatización de t
 
 El código esta explicado en la url https://1938.com.es/bot-click-python
 
+Versión Python3.7
+
 ### Files
 
 En este repositorio se pueden encontrar los siguientes ficheros:
