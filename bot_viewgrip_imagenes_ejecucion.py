@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from pynput.mouse import Button, Controller
 import time
-
 from screen_search import Search
 
 mouse = Controller()
