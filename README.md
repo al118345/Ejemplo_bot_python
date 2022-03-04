@@ -44,7 +44,6 @@ Para ejecutar este proyecto es necesario ejecutar el siguiente comando y añadir
 ```
 python -m pip install --upgrade pip 
 python get-pip.py install -r requirements.txt
-python get-pip.py  install . -r requirements.txt
 ```
 o en el caso de linux
 
@@ -52,7 +51,6 @@ o en el caso de linux
 python -m pip install --upgrade pip 
 pip install -r requirements.txt
 sudo apt-get install python3.7-tk
-pip3 install . -r requirements.txt
 ```
 
 ## Authors
