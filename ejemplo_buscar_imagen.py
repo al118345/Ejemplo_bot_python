@@ -26,7 +26,7 @@ def imagen(imagen):
 
 time.sleep(3)
 path = 'img/'
-coordenadas = imagen(path+ 'eleconomista.png')
+coordenadas = imagen(path+ 'logo.png')
 #si encuentro
 if coordenadas!= False:
         click_raton_posicion (coordenadas[0], coordenadas[1])
