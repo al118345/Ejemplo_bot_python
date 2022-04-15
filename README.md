@@ -39,8 +39,6 @@ screen_search
 ```
 
 ### Installing
-Para ejecutar este proyecto es necesario ejecutar el siguiente comando y añadir las credenciales de acceso a la api de twitter. 
-
 ```
 python -m pip install --upgrade pip 
 python get-pip.py install -r requirements.txt
