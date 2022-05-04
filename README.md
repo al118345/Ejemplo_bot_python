@@ -20,6 +20,8 @@ En este repositorio se pueden encontrar los siguientes ficheros:
 
 * **bot_viewgrip_imagenes_ejecucion.py** Ejemplo de bot para lanzar automáticamente el cliente de viewgrip. 
 
+* **ejemplo_lectura_texto_en_imagen.py** Ejemplo de bot para la lectura del texto de una imagen.
+
 ### Prerequisites
 
 ```
