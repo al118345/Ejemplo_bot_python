@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 try:
     from PIL import Image
 except ImportError:
