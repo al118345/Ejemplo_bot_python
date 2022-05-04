@@ -22,5 +22,4 @@ cropped_im = ImageGrab.grab(crop_rectangle)
 ocr_result = pytesseract.image_to_string(cropped_im, lang='spa')
 print(ocr_result)
 
-print(ocr_result)
 
